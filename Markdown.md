@@ -39,11 +39,6 @@
 
 ``` This is a normal paragraph: This is a code block. end code block. ```
 
-
-``` 코드블럭
-  var java = 'foo';``` 
-  
-  코드블럭 
   
   ***
   
