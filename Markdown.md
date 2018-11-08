@@ -37,10 +37,4 @@
   저렇게 한다면
 음
 
-``` 코드블럭 시작
-  이렇게 한다면
-  저렇게 한다면
-
-음```
-  
 ``` This is a normal paragraph: This is a code block. end code block. ```
