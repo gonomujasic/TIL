@@ -50,3 +50,7 @@ link: [Naver][naver]
 [naver]: https://www.naver.com "go to naver"
 
 [google](https://www.google.com)
+
+**double asterisk**
+__double underline__
+~~cancelline~~
